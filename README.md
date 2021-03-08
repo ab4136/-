@@ -1,2 +1,1 @@
-
-최재혁
+https://google.github.io/styleguide/pyguide.html
