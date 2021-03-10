@@ -1,0 +1,1 @@
+print('save your time')
